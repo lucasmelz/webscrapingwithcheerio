@@ -1,0 +1,82 @@
+[
+    {
+        "title": "Restaurant Review: Superiority Burger Has the Courage of Its Quirks",
+        "description": "Brooks Headley could have cloned his wildly popular vegetarian spot. Instead, its new space doubles down on idiosyncrasy.By Pete Wells",
+        "image": "https://static01.nyt.com/images/2023/06/28/multimedia/27rest-superiority-burger-opener-btvk/27rest-superiority-burger-opener-btvk-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+        "author": "Pete Wells",
+        "date": "2023/06/27",
+        "url": "https://www.nytimes.com/2023/06/27/dining/restaurant-review-superiority-burger-east-village.html"
+    },
+    {
+        "title": "This $5,750-a-Month Brooklyn Apartment Has a Smell Test",
+        "description": "New Yorkers are used to finding quirky situations when apartment hunting, but a ban on cooking meat and fish in the building might be a new one.By Andy Newman",
+        "image": "https://static01.nyt.com/images/2023/06/18/multimedia/00ny-vegan-landlord-1-jpvf/00ny-vegan-landlord-1-jpvf-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+        "author": "Andy Newman",
+        "date": "2023/06/18",
+        "url": "https://www.nytimes.com/2023/06/18/nyregion/vegan-tenants-landlord-ny.html"
+    },
+    {
+        "title": "Peter Singer: Fix Your Diet, Save the Planet",
+        "description": "We can do something significant for the planet every time we eat.By Peter Singer",
+        "image": "https://static01.nyt.com/images/2023/04/26/multimedia/22Singer-lbzc/22Singer-lbzc-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+        "author": "Peter Singer",
+        "date": "2023/04/22",
+        "url": "https://www.nytimes.com/2023/04/22/opinion/earth-day-climate-change-meat-vegan.html"
+    },
+    {
+        "title": "Why New York’s (Mostly) Vegan Mayor Wants to Cut the City’s Meat Budget",
+        "description": "The city estimates that its food purchases produce as much carbon as the exhaust from 70,000 gas-fueled cars.By Dana Rubinstein",
+        "image": "https://static01.nyt.com/images/2023/04/17/multimedia/17adams-meat-zkgf/17adams-meat-zkgf-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+        "author": "Dana Rubinstein",
+        "date": "2023/04/17",
+        "url": "https://www.nytimes.com/2023/04/17/nyregion/eric-adams-meat-emissions-nyc.html"
+    },
+    {
+        "title": "From the Creator of the New Series ‘Transatlantic,’ a Surrealist-Inspired Lunch",
+        "description": "Ahead of her latest show’s release, Anna Winger hosted a meal for her friends and collaborators, complete with custom tarot cards.By Gisela Williams",
+        "image": "https://static01.nyt.com/images/2023/04/05/t-magazine/05tmag-annawinger-slide-GKMS-copy/05tmag-annawinger-slide-GKMS-copy-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+        "author": "Gisela Williams",
+        "date": "2023/04/07",
+        "url": "https://www.nytimes.com/2023/04/07/t-magazine/anna-winger-berlin-lunch.html"
+    },
+    {
+        "title": "This Vegan Soup Is Rich With Peanuts, Potatoes and Comfort",
+        "description": "The flavors in a bowl of South American sopa de maní are soulful and steadying.By Ligaya Mishan",
+        "image": "https://static01.nyt.com/images/2023/04/09/magazine/09mag-eat/09mag-eat-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+        "author": "Ligaya Mishan",
+        "date": "2023/03/29",
+        "url": "https://www.nytimes.com/2023/03/29/magazine/sopa-de-mani-recipe.html"
+    },
+    {
+        "title": "Private Dinner Party: Clothing Not Allowed",
+        "description": "The Füde Dinner Experience gathers those who want to meet, eat and drink  — only after leaving their clothes at the door.By Madeleine Aggeler",
+        "image": "https://static01.nyt.com/images/2023/03/22/multimedia/FUDE-NUDE-adds-01-chkt/FUDE-NUDE-adds-01-chkt-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+        "author": "Madeleine Aggeler",
+        "date": "2023/03/28",
+        "url": "https://www.nytimes.com/2023/03/28/style/fude-dinner-experience-nude.html"
+    },
+    {
+        "title": "A Newcomer in the Mushrooming Field of ‘Animal-Free’ Meats",
+        "description": "Cutlets and “steaks” without the meat, a few Easter treats and more.By Florence Fabricant",
+        "image": "https://static01.nyt.com/images/2023/03/22/dining/20Burner-Meati/20Burner-Meati-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+        "author": "Florence Fabricant",
+        "date": "2023/03/20",
+        "url": "https://www.nytimes.com/2023/03/20/dining/meati-plant-based-meat.html"
+    },
+    {
+        "title": "Soy, Oat and Almond Drinks Can Be Called Milk, F.D.A. Says",
+        "description": "Plant-based beverage makers hailed the agency’s decision but objected to the recommendation for labels to specify the nutritional differences with cow’s milk.By Andrew Jacobs",
+        "image": "https://static01.nyt.com/images/2023/02/23/multimedia/23MILK-ktgb/23MILK-ktgb-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+        "author": "Andrew Jacobs",
+        "date": "2023/02/23",
+        "url": "https://www.nytimes.com/2023/02/23/health/soy-almond-oat-milk-fda.html"
+    },
+    {
+        "title": "Keep Your Politics Out of My Arugula",
+        "description": "Whether to eat meat shouldn’t be a red-blue issue.By Pamela Paul",
+        "image": "https://static01.nyt.com/images/2023/01/20/opinion/19paul1/19paul1-thumbWide.jpg?quality=75&auto=webp&disable=upscale",
+        "author": "Pamela Paul",
+        "date": "2023/01/19",
+        "url": "https://www.nytimes.com/2023/01/19/opinion/keep-your-politics-out-of-my-arugula.html"
+    }
+]
